@@ -1,0 +1,21 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1782877207
+Ball.tscn::PackedScene::8064037037699315273::1782872299::0::1::::<><><>0<>0<><>::uid://bjwa5xs3sw7mp::::res://assets/lollipopGreen.png
+export_presets.cfg::TextFile::-1::1782877074::0::1::::<><><>0<>0<><>::
+game21.apple-touch-icon.png::CompressedTexture2D::6760781851554250217::1782877207::1782877441::1::::<><><>0<>0<>8de64625bb6fe6110b3997c04e68b81f<>res://.godot/imported/game21.apple-touch-icon.png-8fd4df82fc58e9809c34a4b9899c48a1.ctex::
+game21.icon.png::CompressedTexture2D::8941056236898112621::1782877207::1782877441::1::::<><><>0<>0<>546b2d7692cf669760dd3801fb506833<>res://.godot/imported/game21.icon.png-cb70bb14427f27c09177bf8659ceaf13.ctex::
+game21.png::CompressedTexture2D::6871283881951350412::1782877207::1782877441::1::::<><><>0<>0<>f900da91cea7d45b16605ed3684562d6<>res://.godot/imported/game21.png-b09e87daa8260e4080f3ec687b55a36b.ctex::
+icon.svg::CompressedTexture2D::7951457360396824501::1744386698::1782870605::1::::<><><>0<>0<>89ab6497392c9f9c98d525f651af4900<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main.gd::GDScript::3253081640721857007::1744386698::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::2580185021150866616::1782875897::0::1::::<><><>0<>0<><>::uid://bml21q6iedb32::::res://Main.gd<>uid://dm5jrnxmxnuof::::res://Ball.tscn<>uid://br42hgc16qvgt::::res://assets/fbfeb629df77524da0493f04af0aa415_t.jpeg<>uid://b0uwr0rldcnjs::::res://assets/cakeHalfAlt.png<>uid://bj5vfgvbl8qij::::res://assets/cakeHalfAltRight.png<>uid://cdtb566alxbfv::::res://assets/cakeHalfAltLeft.png
+README.md::TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+::res://assets/::1782873532
+ballBlue_10.png::CompressedTexture2D::8698298520458212912::1744386698::1782870605::1::::<><><>0<>0<>0c763170a79ad99eedbeeb4d88792545<>res://.godot/imported/ballBlue_10.png-a6ac20f1eeff46860499a0f8c7bba4ff.ctex::
+Bouncy Platform Long.png::CompressedTexture2D::7895792475247486234::1744386698::1782870605::1::::<><><>0<>0<>31118e1e1499f35295f49355ab77bcfe<>res://.godot/imported/Bouncy Platform Long.png-9b2628c180785c5ec622adb5c4ee7b17.ctex::
+Bouncy Platform Medium.png::CompressedTexture2D::3192301516354317244::1744386698::1782870605::1::::<><><>0<>0<>f1225ecbb5f27ac74a634ecf21c01a09<>res://.godot/imported/Bouncy Platform Medium.png-7896338a5f44da1e83084c154a3c4a9e.ctex::
+cakeHalfAlt.png::CompressedTexture2D::4183796801911672920::1782872790::1782872790::1::::<><><>0<>0<>bda48ec5ad1b99bb74e727bc847b0767<>res://.godot/imported/cakeHalfAlt.png-eb138ccbf902470fe9b9404acb23d0aa.ctex::
+cakeHalfAltLeft.png::CompressedTexture2D::5022747042565744747::1782873393::1782873394::1::::<><><>0<>0<>db60e00bcf9b0dc7c2cb54919e004fc5<>res://.godot/imported/cakeHalfAltLeft.png-1bebd48c223a634f20e1d0c7fe0e829e.ctex::
+cakeHalfAltMid.png::CompressedTexture2D::6950592459008293365::1782872702::1782872702::1::::<><><>0<>0<>6c77f76c4768e09a9af0054e328284a3<>res://.godot/imported/cakeHalfAltMid.png-8188289cc3e5a955947e47354504d5ca.ctex::
+cakeHalfAltRight.png::CompressedTexture2D::3081335942517250545::1782872783::1782872783::1::::<><><>0<>0<>fe622e96c2625604a948013757e7c278<>res://.godot/imported/cakeHalfAltRight.png-32e67fba37495a424df2e6146504a3f2.ctex::
+fbfeb629df77524da0493f04af0aa415_t.jpeg::CompressedTexture2D::3641150159222524387::1782873532::1782873521::1::::<><><>0<>0<>1f9d661e2c4927d1870282684da0de36<>res://.godot/imported/fbfeb629df77524da0493f04af0aa415_t.jpeg-028d8c4037f8217c46bc31bf2f10c769.ctex::
+lollipopGreen.png::CompressedTexture2D::3063591397982535287::1782872195::1782872213::1::::<><><>0<>0<>53c72293e0fa1593b022382d11a19cfe<>res://.godot/imported/lollipopGreen.png-63c3b2047df4538b1058cdbdce19481e.ctex::
